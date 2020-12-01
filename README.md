@@ -12,7 +12,7 @@ s
 *
 *
 
-<img src="https://media.giphy.com/media/26uf1VGKiJqZjItXi/giphy.gif"/>
+<iframe src="https://giphy.com/embed/26uf1VGKiJqZjItXi" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/linarf-26uf1VGKiJqZjItXi">via GIPHY</a></p>
 
 
 ### Donde me puedes encontrar
