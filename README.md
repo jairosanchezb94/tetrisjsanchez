@@ -8,6 +8,8 @@ i
 s 
 ||
 ¿Listo para jugar? 
+
+
 <img src="https://media.giphy.com/media/5Tndtit6LsZmE/giphy.gif"/>
 
 
